@@ -1,10 +1,12 @@
 package by.olehno.array.service;
 
+import by.olehno.array.entity.CustomArray;
 import by.olehno.array.utils.Logging;
 import org.apache.logging.log4j.Level;
 
 public class ArrayFindService {
-    public int FindMaxElement(int[] array) {
+    public int FindMaxElement(CustomArray customArray) {
+        int[] array = customArray.getArray();
         int max = array[0];
         for (int i = 1; i < array.length; i++) {
             max = Math.max(max, array[i]);
@@ -13,7 +15,8 @@ public class ArrayFindService {
         return max;
     }
 
-    public int FindMinElement(int[] array) {
+    public int FindMinElement(CustomArray customArray) {
+        int[] array = customArray.getArray();
         int min = array[0];
         for (int i = 0; i < array.length; i++) {
             if (array[i] < array[0]) {
@@ -24,7 +27,8 @@ public class ArrayFindService {
         return min;
     }
 
-    public double FindAverageValue(int[] array) {
+    public double FindAverageValue(CustomArray customArray) {
+        int[] array = customArray.getArray();
         double average = 0;
         if (array.length > 0) {
             double sum = 0;
@@ -37,7 +41,8 @@ public class ArrayFindService {
         return average;
     }
 
-    public int FindSumElements(int[] array) {
+    public int FindSumElements(CustomArray customArray) {
+        int[] array = customArray.getArray();
         int sum = 0;
         for (int i = 0; i < array.length; i++) {
             sum = sum + array[i];
@@ -46,7 +51,8 @@ public class ArrayFindService {
         return sum;
     }
 
-    public int CountPositiveElement(int[] array) {
+    public int CountPositiveElement(CustomArray customArray) {
+        int[] array = customArray.getArray();
         int positive = 0;
         for (int i = 0; i < array.length; i++) {
             if (array[i] > 0) {
@@ -58,7 +64,8 @@ public class ArrayFindService {
         return positive;
     }
 
-    public int CountNegativeElement(int[] array) {
+    public int CountNegativeElement(CustomArray customArray) {
+        int[] array = customArray.getArray();
         int negative = 0;
         for (int i = 0; i < array.length; i++) {
             if (array[i] < 0) {
