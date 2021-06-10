@@ -20,7 +20,7 @@ public class CustomArray {
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();
-        for (int a:array) {
+        for (int a : array) {
             sb.append(a).append(" ");
         }
         return sb.toString();
