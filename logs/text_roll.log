@@ -1,63 +1,22 @@
-2021-06-10 15:05:29 [main] INFO  by.olehno.array.util.Logging - Поиск наибольшего элемента
-2021-06-10 15:07:19 [main] INFO  by.olehno.array.util.Logging - Поиск наибольшего элемента
-2021-06-10 15:07:19 [main] INFO  by.olehno.array.util.Logging - Наибольшее значение массива 55
-2021-06-10 15:44:08 [main] INFO  by.olehno.array.util.Logging - Наибольшее значение массива 55
-2021-06-10 15:44:08 [main] INFO  by.olehno.array.util.Logging - Количетсво отрицательных элементов массива 2
-2021-06-10 15:44:08 [main] INFO  by.olehno.array.util.Logging - Количетсво положительных элементов массива 4
-2021-06-10 15:44:08 [main] INFO  by.olehno.array.util.Logging - Наименьшее значение массива -7
-2021-06-10 15:44:08 [main] INFO  by.olehno.array.util.Logging - Среднее значение элементов массива 9.333333333333334
-2021-06-10 15:48:10 [main] INFO  by.olehno.array.util.Logging - Наибольшее значение массива 55
-2021-06-10 15:48:10 [main] INFO  by.olehno.array.util.Logging - Количество отрицательных элементов массива 2
-2021-06-10 15:48:10 [main] INFO  by.olehno.array.util.Logging - Количество положительных элементов массива 4
-2021-06-10 15:48:10 [main] INFO  by.olehno.array.util.Logging - Наименьшее значение массива -7
-2021-06-10 15:48:10 [main] INFO  by.olehno.array.util.Logging - Среднее значение элементов массива 9.333333333333334
-2021-06-10 15:48:10 [main] INFO  by.olehno.array.util.Logging - Изменение элементов массива по условию
-2021-06-10 15:48:53 [main] INFO  by.olehno.array.util.Logging - Наибольшее значение массива 55
-2021-06-10 15:48:53 [main] INFO  by.olehno.array.util.Logging - Количество отрицательных элементов массива 2
-2021-06-10 15:48:53 [main] INFO  by.olehno.array.util.Logging - Количество положительных элементов массива 4
-2021-06-10 15:48:53 [main] INFO  by.olehno.array.util.Logging - Наименьшее значение массива -7
-2021-06-10 15:48:53 [main] INFO  by.olehno.array.util.Logging - Среднее значение элементов массива 9.333333333333334
-2021-06-10 15:48:53 [main] INFO  by.olehno.array.util.Logging - Изменение элементов массива по условию [I@6fa34d52
-2021-06-10 15:49:26 [main] INFO  by.olehno.array.util.Logging - Наибольшее значение массива 55
-2021-06-10 15:49:26 [main] INFO  by.olehno.array.util.Logging - Количество отрицательных элементов массива 2
-2021-06-10 15:49:26 [main] INFO  by.olehno.array.util.Logging - Количество положительных элементов массива 4
-2021-06-10 15:49:26 [main] INFO  by.olehno.array.util.Logging - Наименьшее значение массива -7
-2021-06-10 15:49:26 [main] INFO  by.olehno.array.util.Logging - Среднее значение элементов массива 9.333333333333334
-2021-06-10 15:49:26 [main] INFO  by.olehno.array.util.Logging - Изменение элементов массива по условию [I@125290e5
-2021-06-10 16:06:55 [main] INFO  by.olehno.array.util.Logging - Наибольшее значение массива 55
-2021-06-10 16:06:55 [main] INFO  by.olehno.array.util.Logging - Количество отрицательных элементов массива 2
-2021-06-10 16:06:55 [main] INFO  by.olehno.array.util.Logging - Количество положительных элементов массива 4
-2021-06-10 16:06:55 [main] INFO  by.olehno.array.util.Logging - Наименьшее значение массива -7
-2021-06-10 16:06:55 [main] INFO  by.olehno.array.util.Logging - Среднее значение элементов массива 9.333333333333334
-2021-06-10 16:06:55 [main] INFO  by.olehno.array.util.Logging - Изменение элементов массива по условию [I@6fa34d52
-2021-06-10 16:13:46 [main] INFO  by.olehno.array.util.Logging - Наибольшее значение массива 55
-2021-06-10 16:13:46 [main] INFO  by.olehno.array.util.Logging - Количество отрицательных элементов массива 2
-2021-06-10 16:13:46 [main] INFO  by.olehno.array.util.Logging - Количество положительных элементов массива 4
-2021-06-10 16:13:46 [main] INFO  by.olehno.array.util.Logging - Наименьшее значение массива -7
-2021-06-10 16:13:46 [main] INFO  by.olehno.array.util.Logging - Среднее значение элементов массива 9.333333333333334
-2021-06-10 16:13:46 [main] INFO  by.olehno.array.util.Logging - Изменение элементов массива по условию [I@125290e5
-2021-06-10 16:14:22 [main] INFO  by.olehno.array.util.Logging - Наибольшее значение массива 55
-2021-06-10 16:14:22 [main] INFO  by.olehno.array.util.Logging - Количество отрицательных элементов массива 2
-2021-06-10 16:14:22 [main] INFO  by.olehno.array.util.Logging - Количество положительных элементов массива 4
-2021-06-10 16:14:22 [main] INFO  by.olehno.array.util.Logging - Наименьшее значение массива -7
-2021-06-10 16:14:22 [main] INFO  by.olehno.array.util.Logging - Среднее значение элементов массива 9.333333333333334
-2021-06-10 16:14:22 [main] INFO  by.olehno.array.util.Logging - Изменение элементов массива по условию -1 -1 -1 -1 -5 -7
-2021-06-10 16:37:50 [main] INFO  by.olehno.array.util.Logging - Наибольшее значение массива 55
-2021-06-10 16:37:50 [main] INFO  by.olehno.array.util.Logging - Количество отрицательных элементов массива 2
-2021-06-10 16:37:50 [main] INFO  by.olehno.array.util.Logging - Количество положительных элементов массива 4
-2021-06-10 16:37:50 [main] INFO  by.olehno.array.util.Logging - Наименьшее значение массива -7
-2021-06-10 16:37:50 [main] INFO  by.olehno.array.util.Logging - Среднее значение элементов массива 9.333333333333334
-2021-06-10 16:37:50 [main] INFO  by.olehno.array.util.Logging - Изменение элементов массива по условию -1 -1 -1 -1 -5 -7
-2021-06-10 16:38:01 [main] INFO  by.olehno.array.util.Logging - Наибольшее значение массива 5
-2021-06-10 16:40:00 [main] INFO  by.olehno.array.util.Logging - Наибольшее значение массива 55
-2021-06-10 16:40:00 [main] INFO  by.olehno.array.util.Logging - Количество отрицательных элементов массива 2
-2021-06-10 16:40:00 [main] INFO  by.olehno.array.util.Logging - Количество положительных элементов массива 4
-2021-06-10 16:40:00 [main] INFO  by.olehno.array.util.Logging - Наименьшее значение массива -7
-2021-06-10 16:40:00 [main] INFO  by.olehno.array.util.Logging - Среднее значение элементов массива 9.333333333333334
-2021-06-10 16:40:00 [main] INFO  by.olehno.array.util.Logging - Изменение элементов массива по условию -1 -1 -1 -1 -5 -7
-2021-06-13 16:00:16 [main] INFO  by.olehno.array.util.Logging - Изменение элементов массива по условию -1 -1 -1 -2 -6 
-2021-06-13 16:22:39 [main] INFO  by.olehno.array.util.Logging - Наименьшее значение массива 1
-2021-06-13 16:26:06 [main] INFO  by.olehno.array.util.Logging - Среднее значение элементов массива 3.0
-2021-06-13 16:26:35 [main] INFO  by.olehno.array.util.Logging - Среднее значение элементов массива 3.0
-2021-06-13 16:27:07 [main] INFO  by.olehno.array.util.Logging - Сумма элементов массива 15
-2021-06-13 16:27:32 [main] INFO  by.olehno.array.util.Logging - Количество положительных элементов массива 5
+2021-06-13 17:11:35 [main] INFO  by.olehno.array.util.Logging - Selection sort -7 -1 3 3 5 8 
+2021-06-13 17:11:35 [main] INFO  by.olehno.array.util.Logging - Quick sort -7 -1 3 3 5 8 
+2021-06-13 17:11:35 [main] INFO  by.olehno.array.util.Logging - Quick sort -7 -1 3 3 5 8 
+2021-06-13 17:11:35 [main] INFO  by.olehno.array.util.Logging - Quick sort -7 -1 3 3 5 8 
+2021-06-13 17:11:35 [main] INFO  by.olehno.array.util.Logging - Quick sort -7 -1 3 3 5 8 
+2021-06-13 17:11:35 [main] INFO  by.olehno.array.util.Logging - Quick sort -7 -1 3 3 5 8 
+2021-06-13 17:11:35 [main] INFO  by.olehno.array.util.Logging - Quick sort -7 -1 3 3 5 8 
+2021-06-13 17:11:35 [main] INFO  by.olehno.array.util.Logging - Quick sort -7 -1 3 3 5 8 
+2021-06-13 17:11:35 [main] INFO  by.olehno.array.util.Logging - Quick sort -7 -1 3 3 5 8 
+2021-06-13 17:11:35 [main] INFO  by.olehno.array.util.Logging - Quick sort -7 -1 3 3 5 8 
+2021-06-13 17:14:21 [main] INFO  by.olehno.array.util.Logging - Среднее значение элементов массива 1.8333333333333333
+2021-06-13 17:14:21 [main] INFO  by.olehno.array.util.Logging - Bubble sort -7 -1 3 3 5 8 
+2021-06-13 17:14:21 [main] INFO  by.olehno.array.util.Logging - Selection sort -7 -1 3 3 5 8 
+2021-06-13 17:14:21 [main] INFO  by.olehno.array.util.Logging - Quick sort -7 -1 3 3 5 8 
+2021-06-13 17:14:21 [main] INFO  by.olehno.array.util.Logging - Quick sort -7 -1 3 3 5 8 
+2021-06-13 17:14:21 [main] INFO  by.olehno.array.util.Logging - Quick sort -7 -1 3 3 5 8 
+2021-06-13 17:14:21 [main] INFO  by.olehno.array.util.Logging - Quick sort -7 -1 3 3 5 8 
+2021-06-13 17:14:21 [main] INFO  by.olehno.array.util.Logging - Quick sort -7 -1 3 3 5 8 
+2021-06-13 17:14:21 [main] INFO  by.olehno.array.util.Logging - Quick sort -7 -1 3 3 5 8 
+2021-06-13 17:14:21 [main] INFO  by.olehno.array.util.Logging - Quick sort -7 -1 3 3 5 8 
+2021-06-13 17:14:21 [main] INFO  by.olehno.array.util.Logging - Quick sort -7 -1 3 3 5 8 
+2021-06-13 17:14:21 [main] INFO  by.olehno.array.util.Logging - Quick sort -7 -1 3 3 5 8 
