@@ -1,6 +1,5 @@
-package by.olehno.array.utils;
+package by.olehno.array.util;
 
-import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

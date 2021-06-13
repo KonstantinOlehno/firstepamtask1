@@ -6,7 +6,7 @@
     </Properties>
     <Appenders>
         <Console name="Console" target="SYSTEM_OUT">
-            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{10} - %msg%n"/>
         </Console>
 
         <RollingFile name="FileRolling"
@@ -15,7 +15,7 @@
             <PatternLayout pattern="${pattern_file}"/>
             <Policies>
                 <SizeBasedTriggeringPolicy
-                        size="10 KB" />
+                        size="10 KB"/>
             </Policies>
             <DefaultRolloverStrategy max="10"/>
         </RollingFile>
