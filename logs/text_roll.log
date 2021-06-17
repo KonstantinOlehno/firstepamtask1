@@ -53,3 +53,15 @@
 2021-06-17 16:06:12 [main] INFO  by.olehno.array.util.Logging - Read from file text: []
 2021-06-17 16:06:34 [main] INFO  by.olehno.array.util.Logging - Read from file text: []
 2021-06-17 16:09:32 [main] INFO  by.olehno.array.util.Logging - Read from file text: []
+2021-06-17 16:21:13 [main] INFO  by.olehno.array.util.Logging - Read from file text: []
+2021-06-17 16:22:13 [main] INFO  by.olehno.array.util.Logging - Read from file text: []
+2021-06-17 16:25:48 [main] INFO  by.olehno.array.util.Logging - Read from file text: []
+2021-06-17 16:28:37 [main] ERROR by.olehno.array.util.Logging - Not compile
+2021-06-17 16:28:37 [main] ERROR by.olehno.array.util.Logging - Not compile
+2021-06-17 16:28:37 [main] INFO  by.olehno.array.util.Logging - Read from file text: []
+2021-06-17 16:36:15 [main] ERROR by.olehno.array.util.Logging - Not compile
+2021-06-17 16:36:15 [main] ERROR by.olehno.array.util.Logging - Not compile
+2021-06-17 16:36:15 [main] INFO  by.olehno.array.util.Logging - Read from file text: []
+2021-06-17 16:36:53 [main] ERROR by.olehno.array.util.Logging - Not compile
+2021-06-17 16:36:53 [main] ERROR by.olehno.array.util.Logging - Not compile
+2021-06-17 16:36:53 [main] INFO  by.olehno.array.util.Logging - Read from file text: []
