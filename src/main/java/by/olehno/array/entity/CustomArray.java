@@ -25,4 +25,17 @@ public class CustomArray {
         }
         return sb.toString();
     }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) {
+            return true;
+        }
+        if (o.getClass() != CustomArray.class) {
+            return false;
+        }
+        CustomArray object = (CustomArray) o;
+        return Arrays.equals(array, object.array);
+
+    }
 }
