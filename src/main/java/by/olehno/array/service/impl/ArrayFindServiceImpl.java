@@ -5,6 +5,8 @@ import by.olehno.array.service.ArrayFindService;
 import by.olehno.array.util.Logging;
 import org.apache.logging.log4j.Level;
 
+import java.util.stream.IntStream;
+
 public class ArrayFindServiceImpl implements ArrayFindService {
 
     public int FindMaxElement(CustomArray customArray) {
@@ -15,6 +17,7 @@ public class ArrayFindServiceImpl implements ArrayFindService {
         }
         Logging.getLogger().log(Level.INFO, "Max element: " + max);
         return max;
+
     }
 
     public int FindMinElement(CustomArray customArray) {
@@ -27,6 +30,7 @@ public class ArrayFindServiceImpl implements ArrayFindService {
         }
         Logging.getLogger().log(Level.INFO, "Min element: " + min);
         return min;
+
     }
 
     public double FindAverageValue(CustomArray customArray) {
@@ -45,12 +49,13 @@ public class ArrayFindServiceImpl implements ArrayFindService {
 
     public int FindSumElements(CustomArray customArray) {
         int[] array = customArray.getArray();
-        int sum = 0;
-        for (int i = 0; i < array.length; i++) {
-            sum = sum + array[i];
-        }
-        Logging.getLogger().log(Level.INFO, "Sum of elements: " + sum);
-        return sum;
+//        int sum = 0;
+//        for (int i = 0; i < array.length; i++) {
+//            sum = sum + array[i];
+//        }
+//        Logging.getLogger().log(Level.INFO, "Sum of elements: " + sum);
+//        return sum;
+        return IntStream.of(array).sum();
     }
 
     public int CountPositiveElement(CustomArray customArray) {

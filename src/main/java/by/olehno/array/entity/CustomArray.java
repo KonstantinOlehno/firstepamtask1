@@ -11,19 +11,20 @@ public class CustomArray {
     }
 
     public CustomArray(List<Integer> arrayList) {
-        int[] output = new int[arrayList.size()];
+        int[] tempArray = new int[arrayList.size()];
         for (int i = 0; i != arrayList.size(); i++) {
-            output[i] = arrayList.get(i);
+            tempArray[i] = arrayList.get(i);
         }
-        array = output;
+        array = tempArray;
     }
 
     public int[] getArray() {
         return array.clone();
     }
 
-    public void setArray(int[] array) {
+    public int[] setArray(int[] array) {
         this.array = array;
+        return array;
     }
 
     @Override

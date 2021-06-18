@@ -8,7 +8,7 @@ import static org.testng.Assert.*;
 
 public class ArrayFindServiceImplTest {
 
-    static CustomArray customArray = new CustomArray(new int[]{1, 2, 3, 4, 5});
+    private static CustomArray customArray = new CustomArray(new int[]{1, 2, 3, 4, 5});
 
     @Test
     public void testFindMaxElement() {
@@ -48,7 +48,7 @@ public class ArrayFindServiceImplTest {
     public void testCountPositiveElement() {
         ArrayFindServiceImpl arrayFindService = new ArrayFindServiceImpl();
         int actual = 5;
-        int expected = arrayFindService.CountPositiveElement(customArray);
+        long expected = arrayFindService.CountPositiveElement(customArray);
         Assert.assertEquals(actual, expected, 0);
     }
 
@@ -56,7 +56,7 @@ public class ArrayFindServiceImplTest {
     public void testCountNegativeElement() {
         ArrayFindServiceImpl arrayFindService = new ArrayFindServiceImpl();
         int actual = 0;
-        int expected = arrayFindService.CountNegativeElement(customArray);
+        long expected = arrayFindService.CountNegativeElement(customArray);
         Assert.assertEquals(actual, expected, 0);
     }
 }
