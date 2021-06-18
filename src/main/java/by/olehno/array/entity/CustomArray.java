@@ -1,6 +1,7 @@
 package by.olehno.array.entity;
 
 import java.util.Arrays;
+import java.util.List;
 
 public class CustomArray {
     private int[] array;
@@ -9,8 +10,16 @@ public class CustomArray {
         this.array = array;
     }
 
+    public CustomArray(List<Integer> arrayList) {
+        int[] output = new int[arrayList.size()];
+        for (int i = 0; i != arrayList.size(); i++) {
+            output[i] = arrayList.get(i);
+        }
+        array = output;
+    }
+
     public int[] getArray() {
-        return array;
+        return array.clone();
     }
 
     public void setArray(int[] array) {
